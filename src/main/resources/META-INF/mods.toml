@@ -32,7 +32,7 @@ credits="DC__Games/DC Gaming" #optional
 authors="DC__Gaming" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Shrodinger's Block is a block with all possible drops inside at once, but only one drop will be realized once it has been broken. What will you get inside of Shrodinger's Block?
+Schrodinger's Block is a block with all possible drops inside at once, but only one drop will be realized once it has been broken. What will you get inside of Schrodinger's Block?
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.shrodingersblock]] #optional
